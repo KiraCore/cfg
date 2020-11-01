@@ -1,0 +1,1 @@
+This is Kira Core Ethereum Token Balance Oracle Configuration File
