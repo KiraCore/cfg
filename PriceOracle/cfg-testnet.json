@@ -38,5 +38,25 @@
 		"coincodex_id": "Sentinel",
 		"price_min": 0.0001,
 		"price_max": 1000
+	},
+	{
+		"symbol": "ETH",
+		"cryptocompare_id": "ETH",
+		"coinpaprica_id": "eth-ethereum",
+		"coingecko_id": "ethereum",
+		"coinmarketcap_id": "Ethereum",
+		"coincodex_id": "Ethereum",
+		"price_min": 0.0001,
+		"price_max": 100000
+	},
+	{
+		"symbol": "KEX",
+		"cryptocompare_id": "",
+		"coinpaprica_id": "",
+		"coingecko_id": "kira-network",
+		"coinmarketcap_id": "Kira Network",
+		"coincodex_id": "Kira Network",
+		"price_min": 0.00001,
+		"price_max": 10000
 	}
 ]
